@@ -1,3 +1,1 @@
-greet:
-  message: "Good Morning"
-  sender: "Admin"
+msg: "Hello from GitHub Config Server!"
