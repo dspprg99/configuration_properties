@@ -1,0 +1,3 @@
+greet:
+  message: "Good Morning"
+  sender: "Admin"
